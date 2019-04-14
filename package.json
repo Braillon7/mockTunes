@@ -1,13 +1,13 @@
 {
-  "name": "mytunes_landing",
+  "name": "mockTunes",
   "version": "1.0.0",
-  "description": "Simple landing page website",
+  "description": "iTunes Mock Site",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://bradtraversy.github.io/mytunes_landing",
-  "author": "Brad Traversy",
+  "homepage": "https:/Braillon7.github.io/mockTunes",
+  "author": "Nasir Watts",
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^1.2.0"
